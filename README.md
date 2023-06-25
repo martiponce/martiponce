@@ -13,10 +13,7 @@
 <div id="links-cabecera" aling="center">
     <a href="https://www.linkedin.com/in/martina-ponce-de-leon/">
         <img alt="Static Badge" src="https://img.shields.io/badge/Marti%20Ponce-LinkedIn-blue">
-    </a>   
-    <a href="https://www.instagram.com/fxckmxrtxx/">
-        <img alt="Static Badge" src="https://img.shields.io/badge/fxckmxrtxx-Instagram-pink" alt="Instagram link">
-    </a>     
+    </a>  
 </div>
 
 ---
