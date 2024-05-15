@@ -4,7 +4,7 @@
         ♥ Holaaa, soy Marti ♥
     </h1>
     <h3 aling="center">
-        💻Me llamo Martina, tengo 20 años y hace 2 años estoy en 
+        💻Me llamo Martina, tengo 21 años y hace 3 años estoy en 
         el mundo de la programación. Descubriendo y aprendiendo
         nuevas cosas. Pero sobre todo viendo que es lo que mejor 
         va conmigo.💻
@@ -12,7 +12,7 @@
 </div>
 <div id="links-cabecera" aling="center">
     <a href="https://www.linkedin.com/in/martina-ponce-de-leon/">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Marti%20Ponce-LinkedIn-blue">
+        <img aling="center" alt="Static Badge" src="https://img.shields.io/badge/Marti%20Ponce-LinkedIn-blue">
     </a>  
 </div>
 
