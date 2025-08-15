@@ -4,7 +4,7 @@
         ♥ Holaaa, soy Marti ♥
     </h1>
     <h3 aling="center">
-        💻Me llamo Martina, tengo 21 años y hace 3 años estoy en 
+        💻Me llamo Martina, tengo 22 años y hace 3 años estoy en 
         el mundo de la programación. Descubriendo y aprendiendo
         nuevas cosas. Pero sobre todo viendo que es lo que mejor 
         va conmigo.💻
