@@ -4,8 +4,8 @@
         ♥ Holaaa, soy Marti ♥
     </h1>
     <h3 aling="center">
-        💻Me llamo Martina, tengo 22 años y hace 3 años estoy en 
-        el mundo de la programación. Descubriendo y aprendiendo
+        💻Me llamo Martina, tengo 23 años. Actualmente estoy recibida de Analista en sistemas. 
+        Hace 4 años estoy en el mundo de la programación. Descubriendo y aprendiendo
         nuevas cosas. Pero sobre todo viendo que es lo que mejor 
         va conmigo.💻
     </h3>
@@ -19,11 +19,10 @@
 ---
 
 ### 👇 About Me 👇:
-- 🔭 Actualmente estoy estudiando la carrera "Analista en Sistemas".
+- 🔭 Recibida "Analista en Sistemas".
 - 💥 Para ver mis certificados pasate por mi LinkedIn 💥
 - 💬 Si te intereso podés contactarme en [Mi Gmail](martiponcedeleon03@gmail.com)
 - 🌱 Mis pasatiempo son jugar video juegos y editar videos.
-- ⚡ Fun fact: Me enojo cuando programo porque no me salen las cosas a la primera, después se me pasa.
 - 🎯 Mi lenguaje favorito es PYTHON.
 
 
