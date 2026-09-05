@@ -56,12 +56,4 @@ Aplicación de escritorio desarrollada en C# (.NET Framework 4.8) con arquitectu
 
 ---
 
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martiponce&layout=compact&theme=default" alt="Top Langs" />
-</p>
-
----
-
 <p align="center"><i>Gracias por visitar mi perfil 🌸</i></p>
