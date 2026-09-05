@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/martina-ponce-de-leon/">
     <img src="https://img.shields.io/badge/LinkedIn-Martina%20Ponce%20de%20Le%C3%B3n-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:martinaponcedeleon03@gmail.com">
+  <a href="mailto:martiponcedeleon03@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactarme-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
