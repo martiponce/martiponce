@@ -4,10 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/martina-ponce-de-leon/">
     <img src="https://img.shields.io/badge/LinkedIn-Martina%20Ponce%20de%20Le%C3%B3n-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:martiponcedeleon03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contactarme-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
@@ -20,7 +16,7 @@ Soy Analista de Sistemas recibida en el Colegio Universitario IES. Llevo casi 5 
 - 🌐 Sumando desarrollo Full Stack: **Java, JavaScript, HTML/CSS**.
 - 🔐 Con formación adicional en **seguridad de la información y redes**.
 - 💥 Certificados y trayectoria completa en mi [LinkedIn](https://www.linkedin.com/in/martina-ponce-de-leon/).
-- 📫 Contacto: [correo](mailto:martinaponcedeleon03@gmail.com) o LinkedIn.
+- 📫 Contacto: [correo](mailto:martiponcedeleon03@gmail.com) o LinkedIn.
 
 ---
 
